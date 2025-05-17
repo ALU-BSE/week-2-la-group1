@@ -1,6 +1,6 @@
 [
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 1,
     "fields": {
       "title": "The Whispering Pines",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 2,
     "fields": {
       "title": "Shadows of the Forgotten",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 3,
     "fields": {
       "title": "Beneath the Crimson Sky",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 4,
     "fields": {
       "title": "The Last Ember",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 5,
     "fields": {
       "title": "Echoes of the Past",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 6,
     "fields": {
       "title": "The Midnight Library",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 7,
     "fields": {
       "title": "Fragments of Tomorrow",
@@ -63,7 +63,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 8,
     "fields": {
       "title": "The Silent Watcher",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 9,
     "fields": {
       "title": "Tales of the Forgotten Realm",
@@ -81,7 +81,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 10,
     "fields": {
       "title": "The Edge of Eternity",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 11,
     "fields": {
       "title": "Into the Void",
@@ -99,7 +99,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 12,
     "fields": {
       "title": "The Broken Hourglass",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 13,
     "fields": {
       "title": "Chronicles of the Fallen Star",
@@ -117,7 +117,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 14,
     "fields": {
       "title": "The Vanishing Point",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 15,
     "fields": {
       "title": "Lost in the Wilderness",
@@ -135,7 +135,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 16,
     "fields": {
       "title": "The Forgotten Diary",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 17,
     "fields": {
       "title": "A Whisper in the Dark",
@@ -153,7 +153,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 18,
     "fields": {
       "title": "City of Ashes",
@@ -162,7 +162,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 19,
     "fields": {
       "title": "The Traveler's Journal",
@@ -171,7 +171,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 20,
     "fields": {
       "title": "The Lost World",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 21,
     "fields": {
       "title": "The Shadow's Edge",
@@ -189,7 +189,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 22,
     "fields": {
       "title": "The Secret of the Sea",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 23,
     "fields": {
       "title": "The Light Beyond",
@@ -207,7 +207,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 24,
     "fields": {
       "title": "Beyond the Horizon",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 25,
     "fields": {
       "title": "The Final Chapter",
@@ -225,7 +225,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 26,
     "fields": {
       "title": "The Forgotten Path",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 27,
     "fields": {
       "title": "Whispers of the Past",
@@ -243,7 +243,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 28,
     "fields": {
       "title": "Into the Abyss",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 29,
     "fields": {
       "title": "The Golden Age",
@@ -261,7 +261,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 30,
     "fields": {
       "title": "The Silent Forest",
@@ -270,7 +270,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 31,
     "fields": {
       "title": "A Time for Heroes",
@@ -279,7 +279,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 32,
     "fields": {
       "title": "The Last Kingdom",
@@ -288,7 +288,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 33,
     "fields": {
       "title": "The Enchanted Isle",
@@ -297,7 +297,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 34,
     "fields": {
       "title": "The Phantom's Curse",
@@ -306,7 +306,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 35,
     "fields": {
       "title": "The Path of Shadows",
@@ -315,7 +315,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 36,
     "fields": {
       "title": "The Secret of the Tomb",
@@ -324,7 +324,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 37,
     "fields": {
       "title": "The Eternal Flame",
@@ -333,7 +333,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 38,
     "fields": {
       "title": "The Dark Frontier",
@@ -342,7 +342,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 39,
     "fields": {
       "title": "The Lost Treasure",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 40,
     "fields": {
       "title": "The Forsaken Realm",
@@ -360,7 +360,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 41,
     "fields": {
       "title": "The Island of Secrets",
@@ -369,7 +369,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 42,
     "fields": {
       "title": "The Storm's Fury",
@@ -378,7 +378,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 43,
     "fields": {
       "title": "The Wanderer's Tale",
@@ -387,7 +387,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 44,
     "fields": {
       "title": "The Realm of Dreams",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 45,
     "fields": {
       "title": "The Broken Crown",
@@ -405,7 +405,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 46,
     "fields": {
       "title": "The Sands of Time",
@@ -414,7 +414,7 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 47,
     "fields": {
       "title": "The Forgotten City",
@@ -423,12 +423,30 @@
     }
   },
   {
-    "model": "yourappname.book",
+    "model": "books.book",
     "pk": 48,
     "fields": {
       "title": "The Mystery of the Manor",
       "author": "Samantha Lee",
       "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "The Keeper of Secrets",
+      "author": "Oliver Hall",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "The Last Voyage",
+      "author": "Avery Young",
+      "published_year": 2018
     }
   }
 ]
