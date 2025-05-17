@@ -1,0 +1,452 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Whispering Pines",
+      "author": "Liam Harper",
+      "published_year": 1998
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Shadows of the Forgotten",
+      "author": "Emma Reed",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Beneath the Crimson Sky",
+      "author": "James Fletcher",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "The Last Ember",
+      "author": "Olivia Bennett",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "Echoes of the Past",
+      "author": "Mason Turner",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "title": "The Midnight Library",
+      "author": "Sophia Wells",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "title": "Fragments of Tomorrow",
+      "author": "Jack Thompson",
+      "published_year": 1995
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "title": "The Silent Watcher",
+      "author": "Emily Parker",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "title": "Tales of the Forgotten Realm",
+      "author": "Daniel Harris",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "title": "The Edge of Eternity",
+      "author": "Ava Martinez",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "title": "Into the Void",
+      "author": "Henry Miller",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "title": "The Broken Hourglass",
+      "author": "Grace Young",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "title": "Chronicles of the Fallen Star",
+      "author": "Lucas Garcia",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "title": "The Vanishing Point",
+      "author": "Ella Carter",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "title": "Lost in the Wilderness",
+      "author": "Benjamin Lee",
+      "published_year": 1999
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "title": "The Forgotten Diary",
+      "author": "Chloe Adams",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "title": "A Whisper in the Dark",
+      "author": "Samuel Johnson",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "title": "City of Ashes",
+      "author": "Victoria Clark",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "title": "The Traveler's Journal",
+      "author": "Ethan Scott",
+      "published_year": 2002
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "title": "The Lost World",
+      "author": "Isabella Hill",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "title": "The Shadow's Edge",
+      "author": "William Robinson",
+      "published_year": 1994
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+      "title": "The Secret of the Sea",
+      "author": "Madison Allen",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+      "title": "The Light Beyond",
+      "author": "Matthew Baker",
+      "published_year": 2021
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+      "title": "Beyond the Horizon",
+      "author": "Elizabeth Phillips",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+      "title": "The Final Chapter",
+      "author": "Andrew Lewis",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+      "title": "The Forgotten Path",
+      "author": "Hannah Ross",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+      "title": "Whispers of the Past",
+      "author": "Jonathan Evans",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+      "title": "Into the Abyss",
+      "author": "Rachel Walker",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+      "title": "The Golden Age",
+      "author": "Alexander Reed",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+      "title": "The Silent Forest",
+      "author": "Mia Robinson",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+      "title": "A Time for Heroes",
+      "author": "Dylan Martinez",
+      "published_year": 1997
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+      "title": "The Last Kingdom",
+      "author": "Sarah Thompson",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+      "title": "The Enchanted Isle",
+      "author": "Noah Adams",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+      "title": "The Phantom's Curse",
+      "author": "Abigail Johnson",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+      "title": "The Path of Shadows",
+      "author": "Christopher Brown",
+      "published_year": 2002
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+      "title": "The Secret of the Tomb",
+      "author": "Lily Clark",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+      "title": "The Eternal Flame",
+      "author": "Logan Wilson",
+      "published_year": 1996
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+      "title": "The Dark Frontier",
+      "author": "Sophia Moore",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+      "title": "The Lost Treasure",
+      "author": "Jacob Hall",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+      "title": "The Forsaken Realm",
+      "author": "Amelia Thompson",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+      "title": "The Island of Secrets",
+      "author": "Michael White",
+      "published_year": 1995
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+      "title": "The Storm's Fury",
+      "author": "Emily King",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+      "title": "The Wanderer's Tale",
+      "author": "Nathan Scott",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+      "title": "The Realm of Dreams",
+      "author": "Charlotte Lopez",
+      "published_year": 2021
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+      "title": "The Broken Crown",
+      "author": "Joshua Green",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+      "title": "The Sands of Time",
+      "author": "Zoe Wright",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+      "title": "The Forgotten City",
+      "author": "Isaac King",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+      "title": "The Mystery of the Manor",
+      "author": "Samantha Lee",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "The Keeper of Secrets",
+      "author": "Oliver Hall",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "The Last Voyage",
+      "author": "Avery Young",
+      "published_year": 2018
+    }
+  }
+]
